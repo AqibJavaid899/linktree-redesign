@@ -8,7 +8,7 @@ const Header = (props: Props) => {
   return (
     <main className="flex justify-center flex-col items-center">
       <Image
-        className="rounded-full mx-auto mt-16"
+        className="animate-pulse cursor-pointer rounded-full mx-auto mt-16"
         alt=""
         src={data.avatar}
         width={96}
@@ -18,7 +18,13 @@ const Header = (props: Props) => {
       {/* account handler */}
       <div className="flex items-center  mt-4 gap-x-1.5">
         <h2 className="text-xl font-bold">@selenagomez</h2>
-        <Image className="" src="/blueTick.svg" alt="" width={18} height={18} />
+        <Image
+          className=""
+          src="/assets/blueTick.svg"
+          alt=""
+          width={18}
+          height={18}
+        />
       </div>
     </main>
   );
