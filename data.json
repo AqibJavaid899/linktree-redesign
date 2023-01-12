@@ -1,0 +1,27 @@
+{
+  "name": "Aqib Javaid",
+  "avatar": "https://pbs.twimg.com/profile_images/1526277958008287234/eWC4ZCy3_400x400.jpg",
+  "links": [
+    {
+      "title": "My Linkedin Website",
+      "url": "https://www.linkedin.com/in/aqib-javaid-b52124186/",
+      "image": "https://cdn.icon-icons.com/icons2/1099/PNG/96/1485482199-linkedin_78667.png"
+    },
+    {
+      "title": "Vercel Website",
+      "url": "https://vercel.com/",
+      "image": "https://cdn.icon-icons.com/icons2/3375/PNG/96/vercel_brand_icon_211876.png"
+    }
+  ],
+
+  "socials": [
+    {
+      "title": "My Linkedin Website",
+      "url": "https://github.com/AqibJavaid899"
+    },
+    {
+      "title": "Twitter Profile",
+      "url": "https://twitter.com/its_aqibzid"
+    }
+  ]
+}
