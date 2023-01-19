@@ -4,85 +4,76 @@
   "handler": "@aqibjavedofficial",
   "links": [
     {
-      "title": "My Linkedin Website",
+      "title": "My Linkedin Profile",
       "url": "https://www.linkedin.com/in/aqib-javaid-b52124186/",
       "image": "https://cdn.icon-icons.com/icons2/1099/PNG/96/1485482199-linkedin_78667.png"
     },
     {
-      "title": "Vercel Website",
-      "url": "https://vercel.com/",
-      "image": "https://cdn.icon-icons.com/icons2/3375/PNG/96/vercel_brand_icon_211876.png"
+      "title": "My GitHub Profile",
+      "url": "https://github.com/AqibJavaid899",
+      "image": "https://img.icons8.com/ios-filled/2x/github.png"
+    },
+    {
+      "title": "My Twitter Profile",
+      "url": "https://twitter.com/its_aqibzid",
+      "image": "https://img.icons8.com/color/512/twitter.png"
     },
     {
       "title": "My Instagram Profile",
       "url": "https://www.instagram.com/whoisaqibj/",
-      "image": "https://pbs.twimg.com/profile_images/1526277958008287234/eWC4ZCy3_400x400.jpg"
+      "image": "https://img.icons8.com/color/2x/instagram-new.png"
     },
 
     {
-      "title": "My Linkedin Website",
+      "title": "Vercel Website",
+      "url": "https://vercel.com/",
+      "image": "https://cdn.icon-icons.com/icons2/3375/PNG/96/vercel_brand_icon_211876.png"
+    },
+    {
+      "title": "Next.js Website",
+      "url": "https://nextjs.org/",
+      "image": "https://img.icons8.com/color/2x/nextjs.png"
+    },
+    {
+      "title": "TailwindCSS Website",
+      "url": "https://tailwindcss.com/",
+      "image": "https://img.icons8.com/color/2x/tailwindcss.png"
+    },
+    {
+      "title": "My Linkedin Profile",
       "url": "https://www.linkedin.com/in/aqib-javaid-b52124186/",
       "image": "https://cdn.icon-icons.com/icons2/1099/PNG/96/1485482199-linkedin_78667.png"
     },
+    {
+      "title": "My GitHub Profile",
+      "url": "https://github.com/AqibJavaid899",
+      "image": "https://img.icons8.com/ios-filled/2x/github.png"
+    },
+    {
+      "title": "My Twitter Profile",
+      "url": "https://twitter.com/its_aqibzid",
+      "image": "https://img.icons8.com/color/512/twitter.png"
+    },
+    {
+      "title": "My Instagram Profile",
+      "url": "https://www.instagram.com/whoisaqibj/",
+      "image": "https://img.icons8.com/color/2x/instagram-new.png"
+    },
+
     {
       "title": "Vercel Website",
       "url": "https://vercel.com/",
       "image": "https://cdn.icon-icons.com/icons2/3375/PNG/96/vercel_brand_icon_211876.png"
     },
     {
-      "title": "My Instagram Profile",
-      "url": "https://www.instagram.com/whoisaqibj/",
-      "image": "https://pbs.twimg.com/profile_images/1526277958008287234/eWC4ZCy3_400x400.jpg"
+      "title": "Next.js Website",
+      "url": "https://nextjs.org/",
+      "image": "https://img.icons8.com/color/2x/nextjs.png"
     },
     {
-      "title": "My Linkedin Website",
-      "url": "https://www.linkedin.com/in/aqib-javaid-b52124186/",
-      "image": "https://cdn.icon-icons.com/icons2/1099/PNG/96/1485482199-linkedin_78667.png"
-    },
-    {
-      "title": "Vercel Website",
-      "url": "https://vercel.com/",
-      "image": "https://cdn.icon-icons.com/icons2/3375/PNG/96/vercel_brand_icon_211876.png"
-    },
-    {
-      "title": "My Instagram Profile",
-      "url": "https://www.instagram.com/whoisaqibj/",
-      "image": "https://pbs.twimg.com/profile_images/1526277958008287234/eWC4ZCy3_400x400.jpg"
-    },
-    {
-      "title": "My Linkedin Website",
-      "url": "https://www.linkedin.com/in/aqib-javaid-b52124186/",
-      "image": "https://cdn.icon-icons.com/icons2/1099/PNG/96/1485482199-linkedin_78667.png"
-    },
-    {
-      "title": "Vercel Website",
-      "url": "https://vercel.com/",
-      "image": "https://cdn.icon-icons.com/icons2/3375/PNG/96/vercel_brand_icon_211876.png"
-    },
-    {
-      "title": "My Instagram Profile",
-      "url": "https://www.instagram.com/whoisaqibj/",
-      "image": "https://pbs.twimg.com/profile_images/1526277958008287234/eWC4ZCy3_400x400.jpg"
-    },
-    {
-      "title": "My Instagram Profile",
-      "url": "https://www.instagram.com/whoisaqibj/",
-      "image": "https://pbs.twimg.com/profile_images/1526277958008287234/eWC4ZCy3_400x400.jpg"
-    },
-    {
-      "title": "My Linkedin Website",
-      "url": "https://www.linkedin.com/in/aqib-javaid-b52124186/",
-      "image": "https://cdn.icon-icons.com/icons2/1099/PNG/96/1485482199-linkedin_78667.png"
-    },
-    {
-      "title": "Vercel Website",
-      "url": "https://vercel.com/",
-      "image": "https://cdn.icon-icons.com/icons2/3375/PNG/96/vercel_brand_icon_211876.png"
-    },
-    {
-      "title": "My Instagram Profile",
-      "url": "https://www.instagram.com/whoisaqibj/",
-      "image": "https://pbs.twimg.com/profile_images/1526277958008287234/eWC4ZCy3_400x400.jpg"
+      "title": "TailwindCSS Website",
+      "url": "https://tailwindcss.com/",
+      "image": "https://img.icons8.com/color/2x/tailwindcss.png"
     }
   ],
 

@@ -29,8 +29,8 @@ const Card = ({ link }: Props) => {
           className="rounded-sm"
           alt="cardImage"
           src={link.image}
-          width={48}
-          height={48}
+          width={44}
+          height={44}
         />
         <h2 className="font-semibold">{link.title}</h2>
 
