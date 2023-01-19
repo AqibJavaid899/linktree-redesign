@@ -42,7 +42,12 @@ const Footer = (props: Props) => {
         />
       </div>
 
-      <a className="mt-8 mb-16" href="https://linktr.ee/" target="_blank">
+      <a
+        className="mt-8 mb-16"
+        href="https://linktr.ee/"
+        target="_blank"
+        rel="external"
+      >
         <Image
           className="cursor-pointer"
           alt="footerLogo"
