@@ -19,7 +19,7 @@ const Card = ({ link }: Props) => {
   };
 
   return (
-    <a href={link.url} target="_blank" rel="external">
+    <a href={link.url} target="_blank" rel="noreferrer">
       <div
         onMouseEnter={() => handleHoverToggle()}
         onMouseLeave={() => handleHoverToggle()}

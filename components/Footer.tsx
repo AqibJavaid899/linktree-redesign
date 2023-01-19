@@ -46,7 +46,7 @@ const Footer = (props: Props) => {
         className="mt-8 mb-16"
         href="https://linktr.ee/"
         target="_blank"
-        rel="external"
+        rel="noreferrer"
       >
         <Image
           className="cursor-pointer"
