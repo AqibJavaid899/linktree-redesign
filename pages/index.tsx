@@ -1,8 +1,9 @@
 import Head from "next/head";
 
-import Header from "../components/Header";
+import UserInfo from "../components/UserInfo";
 import Cards from "../components/Cards";
 import Footer from "../components/Footer";
+import Header from "../components/Header";
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
       </Head>
 
       <Header />
+      <UserInfo />
       <Cards />
       <Footer />
     </>

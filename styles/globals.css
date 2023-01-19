@@ -4,6 +4,6 @@
 
 @layer base {
   body {
-    @apply bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100;
+    @apply scrollbar-hide bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100;
   }
 }
