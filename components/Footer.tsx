@@ -6,13 +6,14 @@ interface Props {}
 
 const Footer = (props: Props) => {
   return (
-    <section className="flex flex-col justify-center items-center mt-10">
-      <div className="flex gap-x-6">
+    <section className="flex flex-col justify-center items-center mt-8">
+      <div className="flex gap-x-5">
         <SocialMediaIcon
-          title="facebook"
-          imageUrl="/assets/facebookIcon.svg"
-          href="https://www.facebook.com/profile.php?id=100019090278101"
+          title="twitter"
+          imageUrl="/assets/twitterIcon.svg"
+          href="https://twitter.com/its_aqibzid"
         />
+
         <SocialMediaIcon
           title="github"
           imageUrl="/assets/githubIcon.svg"
@@ -24,9 +25,9 @@ const Footer = (props: Props) => {
           href="https://www.linkedin.com/in/aqib-javaid-b52124186/"
         />
         <SocialMediaIcon
-          title="twitter"
-          imageUrl="/assets/twitterIcon.svg"
-          href="https://twitter.com/its_aqibzid"
+          title="facebook"
+          imageUrl="/assets/facebookIcon.svg"
+          href="https://www.facebook.com/profile.php?id=100019090278101"
         />
 
         <SocialMediaIcon
@@ -41,13 +42,13 @@ const Footer = (props: Props) => {
         />
       </div>
 
-      <a className="mt-10" href="https://linktr.ee/" target="_blank">
+      <a className="mt-8 mb-16" href="https://linktr.ee/" target="_blank">
         <Image
           className="cursor-pointer"
           alt="footerLogo"
           src="/assets/linktreeLogo.svg"
-          width={112}
-          height={112}
+          width={96}
+          height={96}
         />
       </a>
     </section>
